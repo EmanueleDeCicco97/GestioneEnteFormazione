@@ -12,9 +12,9 @@
 	</parent>
 
 	<groupId>com.emanuele</groupId>
-	<artifactId>GestioneRF</artifactId>
+	<artifactId>GestioneEnte</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GestioneRF</name>
+	<name>GestioneEnte</name>
 	<description>Gestione Ente Di Formazione</description>
 
 	<properties>

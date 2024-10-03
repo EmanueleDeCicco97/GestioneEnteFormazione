@@ -1,7 +1,7 @@
-<%@page import="com.emanuele.gestionerf.model.Partecipazione"%>
-<%@page import="com.emanuele.gestionerf.model.Corso"%>
+<%@page import="com.emanuele.gestioneEnte.model.Partecipazione"%>
+<%@page import="com.emanuele.gestioneEnte.model.Corso"%>
 <%@page import="java.util.ArrayList"%>
-<%@page import="com.emanuele.gestionerf.model.Corsista"%>
+<%@page import="com.emanuele.gestioneEnte.model.Corsista"%>
 <%@page import="java.util.List"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>

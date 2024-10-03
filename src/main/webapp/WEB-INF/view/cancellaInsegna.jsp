@@ -1,7 +1,7 @@
-<%@page import="com.emanuele.gestionerf.model.Insegna"%>
-<%@page import="com.emanuele.gestionerf.model.Docente"%>
+<%@page import="com.emanuele.gestioneEnte.model.Insegna"%>
+<%@page import="com.emanuele.gestioneEnte.model.Docente"%>
 <%@page import="java.util.ArrayList"%>
-<%@page import="com.emanuele.gestionerf.model.Corso"%>
+<%@page import="com.emanuele.gestioneEnte.model.Corso"%>
 <%@page import="java.util.List"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
